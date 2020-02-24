@@ -1,4 +1,8 @@
-Fork and Clone a repo.
-Make a file with <yourName>.txt.
-Add the file to the staging area.
-Make a commit.
+## How to submit a Homework
+
+1. Fork and Clone a repo. <br>
+2. Make a file with <yourName>.txt.
+3. Add the file to the staging area.
+4. Make a commit.
+5. Git push origin master
+6. Send a pull request.
